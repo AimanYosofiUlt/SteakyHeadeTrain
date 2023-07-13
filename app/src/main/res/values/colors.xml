@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <item name="primary_color" type="color">#00286F</item>
+    <item name="primary_color_light_10" type="color">#EBF2FF</item>
+    <item name="secondary_color" type="color">#23B04C</item>
+    <item name="secondary_color_light_50" type="color">#96EAAF</item>
+    <item name="secondary_color_light_10" type="color">#EEFFF2</item>
+    <item name="toolbar_color" type="color">#F6F6F6</item>
+    <item name="back_color" type="color">#F4F1FF</item>
+</resources>
